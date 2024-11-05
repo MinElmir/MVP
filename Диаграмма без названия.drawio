@@ -461,7 +461,7 @@
           <mxGeometry x="655" y="1320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C_vvAgdayUueWYTcQE6X-109" value="мне ничего не надо" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;noLabel=0;direction=east;portConstraintRotation=0;metaEdit=0;comic=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1040" width="30" height="30" as="geometry" />
+          <mxGeometry x="1010" y="1050" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_vvAgdayUueWYTcQE6X-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C_vvAgdayUueWYTcQE6X-111" target="C_vvAgdayUueWYTcQE6X-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
