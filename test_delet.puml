@@ -1,5 +1,5 @@
-@startuml
-title "UML Sequence diagrams about BNPL (777)"
+@startuml название диаграммы
+title "UML Sequence diagrams about BNPL 777"
     actor Потребитель
     participant Продавец
     participant ФинансоваяОрганизация
