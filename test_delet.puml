@@ -17,6 +17,4 @@ title "UML Sequence diagrams about BNPL"
     else Отказ
         Продавец->Потребитель: Уведомление об отказ
     end
-    actor New
-    actor Old
 @enduml
