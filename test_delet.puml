@@ -18,4 +18,5 @@ title "UML Sequence diagrams about BNPL 777"
         Продавец->Потребитель: Уведомление об отказ
     end
     actor New
+    actor Old
 @enduml
