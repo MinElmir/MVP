@@ -1,5 +1,5 @@
 @startuml
-title UML Sequence diagrams about BNPL
+title UML Sequence diagrams about BNPL (777)
     actor Потребитель
     participant Продавец
     participant ФинансоваяОрганизация
