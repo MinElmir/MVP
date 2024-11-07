@@ -5,7 +5,7 @@ skinparam pageExternalColor gray
 skinparam pageBorderColor black
 
 '!pragma layout smetana /'сначала простой элемент, затем вложенный элемент.'/
-'left to right direction
+left to right direction
 
 !$class_type = "(T,#00a86b)"
 !$next = ".."
